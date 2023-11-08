@@ -1,0 +1,30 @@
+Task:
+Craft a JavaScript script named FIREMESH that empowers users connected to a website to seamlessly acquire website content, encompassing images, videos, and HTML, directly from fellow connected users, eliminating the need for a centralized server. FIREMESH operates as a peer-to-peer content delivery network (CDN), safeguarding data integrity by meticulously verifying the MD5 checksum of downloaded files. Leveraging PeerJS, FIREMESH seamlessly integrates into your website, requiring only the inclusion of the FIREMESH script and the provision of a JSON list of files along with their corresponding MD5 checksums. Complete all logic and functions, do not create placeholder comments.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+website
+
+Ideas:
+
+
+Language:
+ JavaScript
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
